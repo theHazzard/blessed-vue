@@ -1,6 +1,6 @@
 {
   "name": "blessed-vue",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A VueJS runtime to render Blessed to build command line UI.",
   "main": "dist/build.js",
   "repository": "https://github.com/lyonlai/blessed-vue.git",
@@ -54,7 +54,7 @@
     "rollup-plugin-flow-no-whitespace": "^1.0.0",
     "rollup-plugin-replace": "^1.1.1",
     "rollup-watch": "^3.2.2",
-    "vue": "^2.3.0"
+    "vue": "^2.5.9"
   },
   "dependencies": {
     "blessed": "^0.1.81",
